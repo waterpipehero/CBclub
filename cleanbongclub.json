@@ -512,17 +512,8 @@
          "tilewidth":32
         }, 
         {
-         "columns":25,
          "firstgid":375,
-         "image":"..\/..\/Downloads\/map-starter-kit-master\/map-starter-kit-master\/tilesets\/WA_Room_Builder.png",
-         "imageheight":1280,
-         "imagewidth":800,
-         "margin":0,
-         "name":"WA_Room_Builder",
-         "spacing":0,
-         "tilecount":1000,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"WA_Room_Builder.tsx"
         }, 
         {
          "columns":13,
