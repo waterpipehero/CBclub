@@ -108,7 +108,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"https://github.com/waterpipehero/CBclub/blob/main/%5BBase%5DBaseChip_pipo.png",
+         "image":"https://raw.githubusercontent.com/waterpipehero/CBclub/main/%5BBase%5DBaseChip_pipo.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -121,7 +121,7 @@
         {
          "columns":8,
          "firstgid":1065,
-         "image":"https://github.com/waterpipehero/CBclub/blob/main/%5BBase%5DBaseChip_pipo.png",
+         "image":"https://raw.githubusercontent.com/waterpipehero/CBclub/main/%5BBase%5DBaseChip_pipo.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
