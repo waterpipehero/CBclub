@@ -108,7 +108,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"..\/..\/Downloads\/Pipoya RPG Tileset 32x32\/Pipoya RPG Tileset 32x32\/[Base]BaseChip_pipo.png",
+         "image":"https://github.com/waterpipehero/CBclub/blob/main/%5BBase%5DBaseChip_pipo.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -121,7 +121,7 @@
         {
          "columns":8,
          "firstgid":1065,
-         "image":"..\/..\/Downloads\/Pipoya RPG Tileset 32x32\/Pipoya RPG Tileset 32x32\/[Base]BaseChip_pipo.png",
+         "image":"https://github.com/waterpipehero/CBclub/blob/main/%5BBase%5DBaseChip_pipo.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
