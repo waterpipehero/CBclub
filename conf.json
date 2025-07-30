@@ -1,0 +1,8 @@
+{
+  "disableCamera": true,
+  "disableMicrophone": true,
+  "chat": {
+    "displayMode": "speech-bubbles",
+    "bubbleDuration": 5000
+  }
+}
