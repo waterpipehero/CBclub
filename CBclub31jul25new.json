@@ -112,6 +112,94 @@
         }, 
         {
          "draworder":"topdown",
+         "id":4,
+         "name":"collision",
+         "objects":[
+                {
+                 "height":64.9516167099363,
+                 "id":11,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":607.977342459287,
+                 "x":351.191881047911,
+                 "y":413.877743686571
+                }, 
+                {
+                 "height":61.1753599244748,
+                 "id":12,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":159.358036346472,
+                 "x":129.14798206278,
+                 "y":416.89874911494
+                }, 
+                {
+                 "height":163.134293131933,
+                 "id":13,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":30.9653056407836,
+                 "x":127.637479348596,
+                 "y":478.074109039415
+                }, 
+                {
+                 "height":29.454802926599,
+                 "id":14,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":64.1963653528441,
+                 "x":894.972858154355,
+                 "y":351.947132405004
+                }, 
+                {
+                 "height":194.099598772717,
+                 "id":15,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":31.7205569978759,
+                 "x":894.972858154355,
+                 "y":157.847533632287
+                }, 
+                {
+                 "height":32.4758083549681,
+                 "id":16,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":39.2730705687986,
+                 "x":923.672409723861,
+                 "y":157.847533632287
+                }, 
+                {
+                 "height":49.0913382109983,
+                 "id":17,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":958.413972150106,
+                 "x":0,
+                 "y":13.5945244276611
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
          "id":3,
          "name":"start",
          "objects":[
@@ -133,8 +221,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":4,
- "nextobjectid":11,
+ "nextlayerid":5,
+ "nextobjectid":18,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.11.2",
