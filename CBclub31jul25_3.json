@@ -265,7 +265,7 @@
         }, 
         {
          "firstgid":1425,
-         "source":"Room_Builder_free_32x32COL.tsx"
+         "source":"https://raw.githubusercontent.com/waterpipehero/CBclub/main/Room_Builder_free_32x32COL.tsx"
         }],
  "tilewidth":32,
  "type":"map",
